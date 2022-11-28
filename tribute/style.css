@@ -1,0 +1,9 @@
+body{
+    background-color: lime;
+}
+.main{
+    margin: 25px;
+    padding: 10px;
+    border-radius: 25px;
+    border-style: solid;
+}
